@@ -1,0 +1,2 @@
+conda create -p venv python==python_version -y
+conda activate venv/
